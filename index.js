@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Over **PCSO**"];
+const statusMessages = ["Watching Over OPSO"];
 
 
 let currentIndex = 0;
