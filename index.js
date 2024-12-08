@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching over OCSO"];
+const statusMessages = ["Watching over GSP"];
 
 
 let currentIndex = 0;
